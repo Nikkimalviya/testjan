@@ -1,3 +1,4 @@
 This is a very simple file for git.
 make changes.
 new branch
+bare repo change
